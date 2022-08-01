@@ -1,0 +1,4 @@
+Overall Accuracy: 1.0
+Overall Precision: 1.0
+Overall Recall: 1.0
+Average AUC: 1.0
